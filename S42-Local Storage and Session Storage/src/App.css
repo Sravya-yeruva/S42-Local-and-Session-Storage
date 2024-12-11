@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.loginH{
+   font-size:1.6rem;
+   color:green;
+   text-decoration: underline;
+
+}
+form{
+  background-color:lightcoral;
+  height:400px;
+  width:400px;
+  border-radius:5px;
+  font-size:1.4rem;
+}
+form label{
+  display: inline-block;
+  width:100px;
+}
+.checkbox{
+  width:170px;
+
+}
+form Div{
+  padding:10px;
+}
+.head{
+ font-size:18px;
+}
+button{
+  background-color:green;
+  color:white;
+  padding:5px;
+  border-radius:5px;
+  border: 2px solid white;
+  width:90px;
+}
